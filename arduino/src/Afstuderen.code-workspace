@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "AfstuderenESP32",
+			"path": "../../ESP32Code/AfstuderenESP32"
+		}
+	],
+	"settings": {}
+}
